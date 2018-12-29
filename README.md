@@ -5,7 +5,7 @@ Refs:
 [=] Haar Cascade Training
 
 # gathering image from ImageNet (from urls )
-python3 gathering_pics_from_urls.py
+'''python python3 gathering_pics_from_urls.py '''
 
 # remove ugly images. make sure u have already placed ugly images in directory 'uglies'
 python3 remove_ugly_imgs.py
