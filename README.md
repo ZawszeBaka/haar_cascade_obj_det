@@ -1,11 +1,11 @@
 # Haar Cascade Training
 
-### Gathering image from ImageNet (from urls )
+## Gathering image from ImageNet (from urls )
 '''
 python3 gathering_pics_from_urls.py
 '''
 
-### Remove ugly images. Make sure u have already placed ugly images in directory 'uglies'
+## Remove ugly images. Make sure u have already placed ugly images in directory 'uglies'
 python3 remove_ugly_imgs.py
 
 ### Creating background text
