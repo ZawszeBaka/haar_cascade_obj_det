@@ -1,11 +1,11 @@
 Refs:
   https://memememememememe.me/post/training-haar-cascades/
-
+  https://github.com/mrnugget/opencv-haar-classifier-training
 
 [=] Haar Cascade Training
 
 # gathering image from ImageNet (from urls )
-'''python python3 gathering_pics_from_urls.py '''
+''' python3 gathering_pics_from_urls.py '''
 
 # remove ugly images. make sure u have already placed ugly images in directory 'uglies'
 python3 remove_ugly_imgs.py
